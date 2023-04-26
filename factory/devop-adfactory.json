@@ -1,0 +1,9 @@
+{
+	"name": "devop-adfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8fab92d0-8767-4f4d-bde0-b9938fd69bbd",
+		"tenantId": "a023013a-b824-434e-9e26-19ef84d33912"
+	}
+}
